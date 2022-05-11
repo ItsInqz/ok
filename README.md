@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Check out my bio!
-http://inqz.tk
+https://inqz.tk
